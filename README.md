@@ -1,0 +1,4 @@
+This project is an AI-powered career recommendation system that predicts the most suitable career paths based on a person's skills. Using a dataset of skills linked to various professions, a Random Forest Machine Learning model was trained to analyze patterns and suggest career options with confidence scores.
+Users input each skill on a scale of 1-10 (10 being the highest), and the model returns a list of potential STEM careers ranked by likelihood, helping students being introduced to STEM learn about the different careers they can approach.
+Built in Google Colab using Python, Pandas, and Scikit-learn, this tool shows how machine learning can support real-world decision-making in career planning.
+- Input any set of skills, real-time career predictions, and probability-based results
